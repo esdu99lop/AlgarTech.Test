@@ -27,10 +27,10 @@ CREATE TABLE OrdersDetail(
     ProductsQuantity INT NOT NULL,
     CONSTRAINT FK_OrdersDetail_Orders FOREIGN KEY (IDOrder) 
         REFERENCES Orders(IDOrder)
-        ON DELETE CASCADE,  -- Borrado en cascada para Orders
+        ON DELETE CASCADE,
     CONSTRAINT FK_OrdersDetail_Products FOREIGN KEY (IDProduct) 
         REFERENCES Products(IDProduct)
-        ON DELETE CASCADE  -- Borrado en cascada para Products
+        ON DELETE CASCADE
 );
 GO
 
