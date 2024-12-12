@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\core\\interfaces\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\core\\interfaces\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\core\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\core\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\core\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\core\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\core\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\core\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\data\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\data\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\data\\models\\ordersdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\data\\models\\ordersdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\data\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\data\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\dto\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\dto\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|c:\\users\\esdu_\\documents\\projects\\algartech.test\\algartech.test\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8447D7-BF76-4CB1-87FE-459248576CAE}|AlgarTech.Test\\AlgarTech.Test.csproj|solutionrelative:algartech.test\\dto\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AlgarTech.Test\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T15:33:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:26:06.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:26:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Interfaces\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Core\\Interfaces\\IOrdersService.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Interfaces\\IOrdersService.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Core\\Interfaces\\IOrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:26:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Interfaces\\IProductsService.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Core\\Interfaces\\IProductsService.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Interfaces\\IProductsService.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Core\\Interfaces\\IProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Core\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Services\\OrdersService.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Core\\Services\\OrdersService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Core\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Core\\Services\\ProductsService.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Core\\Services\\ProductsService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:48.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Data\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\Orders.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Data\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:47.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersDetail.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\OrdersDetail.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Data\\Models\\OrdersDetail.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\OrdersDetail.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Data\\Models\\OrdersDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Data\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\Models\\Products.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Data\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:38.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Dto\\OrdersDto.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Dto\\OrdersDto.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Dto\\OrdersDto.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Dto\\OrdersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Dto\\ProductsDto.cs",
+              "RelativeDocumentMoniker": "AlgarTech.Test\\Dto\\ProductsDto.cs",
+              "ToolTip": "C:\\Users\\esdu_\\Documents\\Projects\\AlgarTech.Test\\AlgarTech.Test\\Dto\\ProductsDto.cs",
+              "RelativeToolTip": "AlgarTech.Test\\Dto\\ProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:35.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
